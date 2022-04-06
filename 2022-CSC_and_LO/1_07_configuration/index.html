@@ -2204,7 +2204,7 @@ with EasyBuild, which you can consult via <code>eb --avail-module-naming-schemes
 <p>The default <code>EasyBuildMNS</code> module naming scheme roughly corresponds to the filename of easyconfig files,
 and consists of the software name followed by a combination of the software version, toolchain and
 an optional label (which corresponds to the value of the <code>versionsuffix</code> easyconfig parameter):
-<code>&lt;name&gt;/&lt;version&gt;&lt;-toolchain&gt;&lt;versionsuffix&gt;</code>. Just like with <a href="terminology.md#easyconfig-files">names of easyconfig
+<code>&lt;name&gt;/&lt;version&gt;&lt;-toolchain&gt;&lt;versionsuffix&gt;</code>. Just like with <a href="1_05_terminology#easyconfig-files">names of easyconfig
 files</a>, the <code>&lt;-toolchain&gt;</code> part is omitted when the <code>system</code> toolchain is used,
 and the <code>&lt;versionsuffix&gt;</code> value is empty by default.</p>
 <div class="admonition note">
@@ -2269,9 +2269,9 @@ due to the similar name. However, these are two entirely different concepts!</p>
 across different software installations. They define <em>configuration settings</em>,
 such as the location where software should be installed, or the syntax that should
 be used when generating module files.</p>
-<p>An <a href="terminology.md#easyconfig-files">easyconfig file</a> (<code>*.eb</code>) on the other hand <em>specifies the details for one particular software installation</em>.
+<p>An <a href="1_05_terminology#easyconfig-files">easyconfig file</a> (<code>*.eb</code>) on the other hand <em>specifies the details for one particular software installation</em>.
 It does this by defining a set of <em>easyconfig parameters</em>, which tell EasyBuild the name and version
-of the software to install, which <a href="terminology.md#toolchains">toolchain</a> and <a href="terminology.md#easyblocks">easyblock</a> to use, etc.</p>
+of the software to install, which <a href="1_05_terminology#toolchains">toolchain</a> and <a href="1_05_terminology#easyblocks">easyblock</a> to use, etc.</p>
 <p>For each software installation performed by EasyBuild, there is a corresponding easyconfig file.
 There typically are only a handful of configuration files used however, for example a system-level
 configuration file, perhaps combined with a user-level one. Or there may be no configuration files involved
@@ -2449,7 +2449,7 @@ bzip2-1.0.6.tar.gz
   <small>
     
       Last update:
-      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 21, 2022</span>
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 6, 2022</span>
       
     
   </small>
