@@ -1,19 +1,32 @@
-site_name: "Landing page of Kurt Lust"
+site_name: "Landing pages of Kurt Lust"
 site_url: https://klust.github.io/
 site_dir: site
+site_description: >-
+  Home page and GitHub landing page of Kurt Lust
+
 theme:
   name: material
   features:
-      - instant
-repo_name: Kurt Lust @ GitHub
-repo_url: https://github.com/klust/
-edit_uri: klust.github.io/edit/master/docs
+    - navigation.instant
+    - navigation.tracking
+    - header.autohide
+
+hide:
+  #- navigation
+  - toc
+
 nav:
-  - Home: index.md
+  - About me: index.md
+  - Links: links.md
+
 plugins:
   # show revision date at bottom of each page
   - git-revision-date-localized
+
 markdown_extensions:
+  - meta
+  # Nicer tables
+  - tables
   # notes, warnings, hints, ...
   - admonition
   # code blocks with syntax highlighting, graphs
@@ -27,12 +40,18 @@ markdown_extensions:
   # tabbed contents
   - pymdownx.tabbed
   - toc:
-      permalink: true
+      permalink: false
+      toc_depth: 3
+
 extra:
   # add links in bottom right
   social:
     #- type: github
     #  icon: octicons/logo-github
     #  link: https://github.com/klust
+    - icon: fontawesome/brands/github
+      link: https://github.com/klust
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/kurtlust
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UC3szWMS7glcfWsEZTZXQ1oQ
