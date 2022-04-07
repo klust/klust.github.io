@@ -1,7 +1,5 @@
 # README for this repository
 
--   Generating the test version of the EasyBuild tutorial in this web site:
-    
-    ```
-    mkdocs gh-deploy --config-file ../easybuild-tutorial/mkdocs-klust.yml --remote-branch main
-    ```
+This repository is for landing pages on 
+[the GitHub pages of Kurt Lust](https://klust.github.io).
+
