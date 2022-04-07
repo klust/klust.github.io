@@ -14,11 +14,11 @@ Within the LUMI User Support Team (LUST) I work on software installation and man
 software stack and the EasyBuild setup on LUMI.
 For the other half of my time I work for the CalcUA facility of the Vlaams Supercomputer Centrum. My tasks there include working on the technical requirements for procurements, user support, software installation and optimisation and development of user documentation and training.
 
-Links to some of my work are found at the top of the page
+Links to some of my work are found at the top of the page:
 
 -   [EasyBuild for LUMI training](easybuild-training) links to EasyBuild training materials which include 
-    a training for advanced EasyBuild users on LUMI that I developed based on the other EasyBuild
-    training materials.
+    a training for advanced EasyBuild users on LUMI that I developed based on the [other EasyBuild
+    training materials](https://easybuild.io/tutorial).
 -   [Win for HPC](windows-client-HPC) are pages from something that is more of a hobby project, exploring how
      Windows can be used to access HPC systems and even to develop software that will be used on HPC systems.
      These pages are in their very early stages.
