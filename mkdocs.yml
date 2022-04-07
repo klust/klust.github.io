@@ -9,15 +9,19 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
+    - navigation.tabs
+    - navigation.top
     - header.autohide
 
 hide:
-  #- navigation
   - toc
 
 nav:
-  - About me: index.md
-  - Links: links.md
+  - About me: 
+    - index.md
+    - CV: CV.md
+  - Win for HPC: windows-client-HPC
+  - EasyBuild for LUMI training: easybuild-tutorial
 
 plugins:
   # show revision date at bottom of each page
@@ -46,9 +50,6 @@ markdown_extensions:
 extra:
   # add links in bottom right
   social:
-    #- type: github
-    #  icon: octicons/logo-github
-    #  link: https://github.com/klust
     - icon: fontawesome/brands/github
       link: https://github.com/klust
     - icon: fontawesome/brands/linkedin
