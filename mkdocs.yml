@@ -6,12 +6,18 @@ site_description: >-
 
 theme:
   name: material
+  # We'll customise the team (basically a simpler footer)
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.top
+    - navigation.indexes
     - header.autohide
+    - toc.follow
+  palette:
+    - primary: black
 
 hide:
   - toc
@@ -52,7 +58,10 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/klust
+      name: Kurt Lust on GitHub
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/kurtlust
+      name: Kurt Lust onb LinkedIn
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UC3szWMS7glcfWsEZTZXQ1oQ
+      name: Work-related YouTube channel of Kurt Lust
