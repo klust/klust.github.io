@@ -1,4 +1,4 @@
-all: build
+all: preview
 
 build:
 	mkdocs build
@@ -9,5 +9,5 @@ deploy:
 check test:
 	mkdocs build --strict
 
-preview:
+serve preview:
 	mkdocs serve
