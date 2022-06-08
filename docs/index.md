@@ -16,7 +16,7 @@ For the other half of my time I work for the CalcUA facility of the Vlaams Super
 
 Links to some of my work are found at the top of the page:
 
--   [EasyBuild for LUMI training](easybuild-training) links to EasyBuild training materials which include 
+-   [EasyBuild for LUMI training](easybuild-tutorial) links to EasyBuild training materials which include 
     a training for advanced EasyBuild users on LUMI that I developed based on the [other EasyBuild
     training materials](https://easybuild.io/tutorial).
 -   [Win for HPC](windows-client-HPC) are pages from something that is more of a hobby project, exploring how
