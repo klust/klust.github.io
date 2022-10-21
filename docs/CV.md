@@ -1,7 +1,5 @@
 ---
 title: CV of Kurt Lust 
-hide:
-  - navigation
 ---
 
 # (Partial) CV of Kurt Lust
