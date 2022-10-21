@@ -19,8 +19,8 @@ theme:
   palette:
     - primary: black
 
-hide:
-  - toc
+#hide:
+#  - toc
 
 nav:
   - About me: 
@@ -54,6 +54,9 @@ markdown_extensions:
   - toc:
       permalink: false
       toc_depth: 3
+
+extra_css:
+  - stylesheets/extra.css
 
 extra:
   # add links in bottom right
