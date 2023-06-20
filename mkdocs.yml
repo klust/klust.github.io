@@ -29,8 +29,9 @@ nav:
     - Links: links.md
   - Supercomputers for Starters: SupercomputersForStarters
   - Win for HPC: windows-client-HPC
+  - macOS to Linux: macos-to-linux
   - Missing Cray manual: cray-missing-manual
-  - EasyBuild for LUMI training: easybuild-tutorial
+  - EasyBuild for LUMI trainings: easybuild-tutorial
 
 plugins:
   # show revision date at bottom of each page
