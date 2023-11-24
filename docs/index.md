@@ -30,7 +30,9 @@ Links to some of my work are found at the top of the page:
     to others than a document that tries to be complete and is the result of what I use myself at work and tickets
     I processed at the [Vlaams Supercomputer Centrum](https://vscentrum.be) and
     [LUMI](https://lumi-supercomputer.eu) User Support Team.
--   [The missing Cray PE manual](cray-missing-manual) are pages containing various bits and pieces of information
-    about the HPE Cray Programming Environment that I discovered using it or on various sites or sometimes by 
-    reverse-engineering scripts and module files of the PE.
+-   [LUMI Tips&Tricks](https://klust.github.io/LUMI-tips-and-tricks/) is a page where I bundle 
+    some stuff that I have discovered on LUMI and that is hard to find 
+    in the HPE Cray or LUMI documentation or hard to give a good place in the latter
+    (and to maintain, some of it may be outdated). Sometimes this knowledge comes from
+    reverse-enbgineering scripts and module files of the PE.
 

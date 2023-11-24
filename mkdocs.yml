@@ -30,7 +30,7 @@ nav:
   - Supercomputers for Starters: SupercomputersForStarters
   - Win for HPC: windows-client-HPC
   - macOS to Linux: macos-to-linux
-  - Missing Cray manual: cray-missing-manual
+  - LUMI tips&tricks: LUMI-tips-and-tricks
   - EasyBuild for LUMI trainings: easybuild-tutorial
 
 plugins:
