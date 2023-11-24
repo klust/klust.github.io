@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://klust.github.io/2/</loc>
+         <lastmod>2023-11-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://klust.github.io/CV/</loc>
          <lastmod>2023-11-24</lastmod>
          <changefreq>daily</changefreq>
