@@ -28,6 +28,7 @@ nav:
     - CV: CV.md
     - Links: links.md
   - Supercomputers for Starters: SupercomputersForStarters
+  - LUMI-BE trainings: LUMI-BE-training-materials
   - Win for HPC: windows-client-HPC
   - macOS to Linux: macos-to-linux
   - LUMI tips&tricks: LUMI-tips-and-tricks

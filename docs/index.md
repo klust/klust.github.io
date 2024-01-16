@@ -19,12 +19,15 @@ Links to some of my work are found at the top of the page:
 -   [Supercomputers for Starters](SupercomputersForStarters) (work-in-progress): 
     Course notes for a course that I teach as part of the introductory courses for new users of the
     University of Antwerpen HPC users, and which may evolve into a course also used for a larger audience.
+-   [LUMI-BE trainings](LUMI-BE-training-materials):
+    Training materials for LUMI-BE courses. So far I am the author of all material on the site.
 -   [EasyBuild for LUMI training](easybuild-tutorial) links to EasyBuild training materials which include 
     a training for advanced EasyBuild users on LUMI that I developed based on the [other EasyBuild
     training materials](https://easybuild.io/tutorial).
--   [Win for HPC](windows-client-HPC) (work-in-progress) are pages from something that is more of a hobby project, exploring how
-     Windows can be used to access HPC systems and even to develop software that will be used on HPC systems.
-     These pages are in their very early stages.
+-   [Win for HPC](windows-client-HPC) (work-in-progress) are pages from something that is more of a 
+    hobby project, exploring how
+    Windows can be used to access HPC systems and even to develop software that will be used on HPC systems.
+    These pages are in their very early stages.
 -   [Connecting from macOS to Linux](macos-to-linux) (work in progress) are a set of notes about accessing Linux
     machines and in particular supercomputers from macOS. It is more of a personal knowledge base made available
     to others than a document that tries to be complete and is the result of what I use myself at work and tickets
