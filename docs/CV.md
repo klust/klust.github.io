@@ -120,7 +120,7 @@ Military service (May till December 1993): After basic training I worked at the 
 **09/81 – 06/87: Secondary school: Latin – mathematics**  
 *Sint-Lodewijkscollege in Brugge*
 
-## Knowldege and competencies
+## Knowledge and competencies
 
 -   Languages:
     -   Dutch: native speaker
