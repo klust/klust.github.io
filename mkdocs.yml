@@ -37,6 +37,10 @@ nav:
 plugins:
   # show revision date at bottom of each page
   - git-revision-date-localized
+  # redirects for shorter entries to pages in subsites.
+  - redirects:
+      redirect_maps:
+          intro-evolving.md: https://klust.github.io/LUMI-BE-training-materials/intro-evolving/
 
 markdown_extensions:
   - meta
