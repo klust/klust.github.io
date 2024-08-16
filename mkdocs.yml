@@ -41,6 +41,7 @@ plugins:
   - redirects:
       redirect_maps:
           intro-evolving.md: https://klust.github.io/LUMI-BE-training-materials/intro-evolving/
+          update-202409.md: https://klust.github.io/LUMI-training-materials/User-Updates/Update-202409/
 
 markdown_extensions:
   - meta
