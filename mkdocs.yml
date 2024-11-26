@@ -44,6 +44,7 @@ plugins:
           update-202409.md: https://klust.github.io/LUMI-training-materials/User-Updates/Update-202409/
           EPICURE.md: https://klust.github.io/EPICURE-meetings/20241202-Brussels/
           EPICURE2024.md: https://klust.github.io/EPICURE-meetings/20241202-Brussels/
+          Armes.md: https://maps.app.goo.gl/TJroSYKefBcMQbnu6
 
 markdown_extensions:
   - meta
