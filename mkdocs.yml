@@ -45,6 +45,8 @@ plugins:
           EPICURE.md: https://klust.github.io/EPICURE-meetings/20241202-Brussels/
           EPICURE2024.md: https://klust.github.io/EPICURE-meetings/20241202-Brussels/
           Armes.md: https://maps.app.goo.gl/TJroSYKefBcMQbnu6
+          armes.md: https://maps.app.goo.gl/TJroSYKefBcMQbnu6
+          zoom.md: https://cscfi.zoom.us/j/3432837620?pwd=eEdNT2hlQmZEYXcrUkZad3BBTjNLdz09
 
 markdown_extensions:
   - meta
